@@ -1,0 +1,7 @@
+.idea/
+.env
+databases/
+storage/cache/*
+!storage/cache/index.html
+storage/session/sess*
+*.log
